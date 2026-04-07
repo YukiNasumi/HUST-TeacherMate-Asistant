@@ -39,7 +39,7 @@ cp sample.config.json config.json
 ```javascript
 {
   "interval": 10000, // 签到检测轮询间隔，单位 ms
-  "wait": 5000,     // 检测到签到后等待时长，单位 ms
+  "wait": 5423,     // 检测到签到后等待时长，单位 ms
   // 用于 GPS 签到（大概是 Google 坐标）
   "lat": 30.511227, // 纬度
   "lon": 114.41021, // 经度

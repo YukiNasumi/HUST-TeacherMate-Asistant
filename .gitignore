@@ -1,2 +1,5 @@
 node_modules
 config.json
+dist/
+package-lock.json
+pnpm-lock.yaml
